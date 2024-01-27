@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osegbo Chukwuemeka</h1>
 <h3 align="center">A passionate fullstack developer from Lagos,Nigeria</h3>
 
-- 🔭 I’m currently working on **Hostel Management System and a Blog**
+- 🌱 I’m currently learning **React Native**
 
-- 🌱 I’m currently learning **Django-Rest-Framework and React**
-
-- 👯 I’m looking to collaborate on **E-commerce project**
-
-- 🤝 I’m looking for help with **tasking project**
+- 👯 I’m looking to collaborate on **Large Scale project**
 
 - 💬 Ask me about **Python,Javascript**
 
